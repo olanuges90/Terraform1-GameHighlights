@@ -55,6 +55,7 @@ This Project leverages Terraform as Infrastruce as a code (IaC) tool to automate
       └── terraform
           ├── main.tf
           ├── variables.tf
+          ├───terraform.tfvars
           ├── secrets.tf
           ├── iam.tf
           ├── ecr.tf
