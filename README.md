@@ -38,6 +38,9 @@ This Project leverages Terraform as Infrastruce as a code (IaC) tool to automate
   
   ## Project Strcuture
 
+     resources/
+      ├── vpc_setup.sh
+      ├── nanoproject
      src/
       ├── Dockerfile
       ├── config.py
